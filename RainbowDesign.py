@@ -19,3 +19,5 @@ for i in range(255*2):
     fd(50+i)
     rt(91)
     pencolor(r,g,b)
+
+#code created By abhilashPuthukkudi
